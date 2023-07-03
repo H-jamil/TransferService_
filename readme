@@ -1,4 +1,4 @@
-Transfer Service
+**Transfer Service
 
 
 A Socket communication based file transfer service that dynamically changes the number of TCP streams based on network traffic condition
@@ -9,13 +9,28 @@ Please use python3 and install necessary packages using the requirements.txt fil
 
 Below steps are required for both source and destination server:
 
-After cloning do chmod +x environment_installation.sh
-then run sudo ./environment_installation.sh transferEnv 3.10
-&        source ~/.bashrc
-if above command gives error and doesn't complete do source ~/.bashrc and then run sudo ./environment_installation.sh transferEnv 3.10
-&        source ~/.bashrc again.
-create a source file directory by running file_creation.sh </src/directory> <#of_file> <eachfileSize>
-Activate transferEnv using pyenv activate transferEnv
-Install required python packages: pip install -r requirements.tx
+After cloning do ```python
+chmod +x environment_installation.sh
+```
+then run ```python
+sudo ./environment_installation.sh transferEnv 3.10
+```
+&        ```python
+source ~/.bashrc
+```
+if above command gives error and doesn't complete do ```python
+source ~/.bashrc
+``` and then run **sudo ./environment_installation.sh transferEnv 3.10**
+&       ** source ~/.bashrc** again.
+create a source file directory by running ```python
+file_creation.sh </src/directory> <#of_file> <eachfileSize>
+```
+Activate transferEnv using ```python
+pyenv activate transferEnv
+```
+Install required python packages: ```python
+pip install -r requirements.tx
+```
 On the destination server, please edit config_receiver.py and run python receiver.py
 On the source server, please edit config_sender.py and run python sender.py
+**
