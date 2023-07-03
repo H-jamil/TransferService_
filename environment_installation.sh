@@ -10,6 +10,12 @@ fi
 env_name="$1"
 python_version="$2"
 
+# Install dependencies for building Python
+sudo apt-get update
+sudo apt-get install -y make build-essential libssl-dev zlib1g-dev libbz2-dev \
+libreadline-dev libsqlite3-dev wget curl llvm libncursesw5-dev xz-utils \
+tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev
+
 # Install pyenv
 if ! command -v pyenv &> /dev/null
 then
@@ -40,3 +46,4 @@ then
 fi
 
 echo "Python environment '$env_name' is ready to use. Activate it using 'pyenv activate $env_name'"
+
