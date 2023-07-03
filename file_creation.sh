@@ -19,7 +19,7 @@ fi
 # Create num_files of file_size bytes
 for ((i=1; i<=num_files; i++))
 do
-    dd if=/dev/zero of="$dest_dir"/file"$i".txt bs=1 count="$file_size" >/dev/null 2>&1
+    dd if=/dev/zero of="$dest_dir"/file"$i".txt bs=1024 count="$file_size" >/dev/null 2>&1
 done
 
 echo "Created $num_files files of size $file_size bytes in $dest_dir"

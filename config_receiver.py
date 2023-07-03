@@ -1,9 +1,9 @@
 configurations = {
     "receiver": {
-        "host": "164.54.113.195",
+        "host": "10.140.82.56",
         "port": 8000
     },
-    "data_dir": "/home/beams/MJAMIL/data/dest",
+    "data_dir": "/home/cc/Files",
     "max_cc": 100,
     "file_transfer": True,
     "loglevel": "info",

@@ -1,0 +1,79 @@
+1688422492.507485 -- INFO: Running a fixed configurations  .... 
+1688422492.507957 -- INFO: Iteration 1 Starts ...
+1688422492.508144 -- INFO: Sample Transfer -- Probing Parameters: [12]
+1688422492.560281 -- INFO: Throughput @0.1s: Current: 0.0Mbps, Average: 0.0Mbps, 60Sec_Average: 0.0Mbps
+1688422493.559597 -- INFO: Throughput @1.1s: Current: 18357.88Mbps, Average: 16688.98Mbps, 60Sec_Average: 9178.94Mbps
+1688422494.558294 -- INFO: Throughput @2.1s: Current: 14084.47Mbps, Average: 15448.74Mbps, 60Sec_Average: 10814.12Mbps
+1688422495.559861 -- INFO: Throughput @3.1s: Current: 13992.2Mbps, Average: 14978.89Mbps, 60Sec_Average: 11608.64Mbps
+1688422495.599053 -- INFO: Sample Transfer -- Throughput: 14038.0Mbps, Loss Rate: 0.0%, Score: -11069.0
+1688422495.599438 -- INFO: Iteration 1 Ends, Took 3.09 Seconds. Score: -11069.0.
+1688422495.599604 -- INFO: Iteration 2 Starts ...
+1688422495.599829 -- INFO: Sample Transfer -- Probing Parameters: [12]
+1688422496.560830 -- INFO: Throughput @4.1s: Current: 16819.16Mbps, Average: 15427.73Mbps, 60Sec_Average: 12650.74Mbps
+1688422497.561710 -- INFO: Throughput @5.1s: Current: 14310.97Mbps, Average: 15208.76Mbps, 60Sec_Average: 12927.45Mbps
+1688422498.562585 -- INFO: Throughput @6.1s: Current: 14571.01Mbps, Average: 15104.21Mbps, 60Sec_Average: 13162.24Mbps
+1688422498.660028 -- INFO: Sample Transfer -- Throughput: 14441.0Mbps, Loss Rate: 0.0%, Score: -11387.0
+1688422498.660187 -- INFO: Iteration 2 Ends, Took 3.06 Seconds. Score: -11387.0.
+1688422498.660239 -- INFO: Iteration 3 Starts ...
+1688422498.660295 -- INFO: Sample Transfer -- Probing Parameters: [12]
+1688422499.563733 -- INFO: Throughput @7.1s: Current: 15661.53Mbps, Average: 15182.71Mbps, 60Sec_Average: 13474.65Mbps
+1688422500.564727 -- INFO: Throughput @8.1s: Current: 15141.44Mbps, Average: 15177.61Mbps, 60Sec_Average: 13659.85Mbps
+1688422501.565758 -- INFO: Throughput @9.1s: Current: 15577.65Mbps, Average: 15221.57Mbps, 60Sec_Average: 13851.63Mbps
+1688422501.719997 -- INFO: Sample Transfer -- Throughput: 15360.0Mbps, Loss Rate: 0.0%, Score: -12111.0
+1688422501.720323 -- INFO: Iteration 3 Ends, Took 3.06 Seconds. Score: -12111.0.
+1688422501.720481 -- INFO: Iteration 4 Starts ...
+1688422501.720683 -- INFO: Sample Transfer -- Probing Parameters: [12]
+1688422502.566632 -- INFO: Throughput @10.1s: Current: 14923.33Mbps, Average: 15192.04Mbps, 60Sec_Average: 13949.06Mbps
+1688422503.567608 -- INFO: Throughput @11.1s: Current: 14763.95Mbps, Average: 15153.48Mbps, 60Sec_Average: 14016.97Mbps
+1688422504.568668 -- INFO: Throughput @12.1s: Current: 16064.18Mbps, Average: 15228.74Mbps, 60Sec_Average: 14174.44Mbps
+1688422504.809800 -- INFO: Sample Transfer -- Throughput: 15414.0Mbps, Loss Rate: 0.0%, Score: -12154.0
+1688422504.810138 -- INFO: Iteration 4 Ends, Took 3.09 Seconds. Score: -12154.0.
+1688422504.810322 -- INFO: Iteration 5 Starts ...
+1688422504.810499 -- INFO: Sample Transfer -- Probing Parameters: [12]
+1688422505.569785 -- INFO: Throughput @13.1s: Current: 16013.85Mbps, Average: 15288.67Mbps, 60Sec_Average: 14305.83Mbps
+1688422506.570619 -- INFO: Throughput @14.1s: Current: 16282.29Mbps, Average: 15359.14Mbps, 60Sec_Average: 14437.59Mbps
+1688422507.571685 -- INFO: Throughput @15.1s: Current: 13916.7Mbps, Average: 15263.62Mbps, 60Sec_Average: 14405.04Mbps
+1688422507.886710 -- INFO: Sample Transfer -- Throughput: 15099.0Mbps, Loss Rate: 0.0%, Score: -11906.0
+1688422507.887062 -- INFO: Iteration 5 Ends, Took 3.08 Seconds. Score: -11906.0.
+1688422507.887223 -- INFO: Iteration 6 Starts ...
+1688422507.887394 -- INFO: Sample Transfer -- Probing Parameters: [12]
+1688422508.572678 -- INFO: Throughput @16.1s: Current: 13539.21Mbps, Average: 15156.51Mbps, 60Sec_Average: 14354.11Mbps
+1688422509.573742 -- INFO: Throughput @17.1s: Current: 13958.64Mbps, Average: 15086.46Mbps, 60Sec_Average: 14332.14Mbps
+1688422510.574662 -- INFO: Throughput @18.1s: Current: 13967.03Mbps, Average: 15024.61Mbps, 60Sec_Average: 14312.92Mbps
+1688422510.962005 -- INFO: Sample Transfer -- Throughput: 13963.0Mbps, Loss Rate: 0.0%, Score: -11010.0
+1688422510.962330 -- INFO: Iteration 6 Ends, Took 3.07 Seconds. Score: -11010.0.
+1688422510.962507 -- INFO: Iteration 7 Starts ...
+1688422510.962681 -- INFO: Sample Transfer -- Probing Parameters: [12]
+1688422511.575642 -- INFO: Throughput @19.1s: Current: 13975.42Mbps, Average: 14969.68Mbps, 60Sec_Average: 14296.05Mbps
+1688422512.576683 -- INFO: Throughput @20.1s: Current: 13975.42Mbps, Average: 14920.22Mbps, 60Sec_Average: 14280.78Mbps
+1688422513.577736 -- INFO: Throughput @21.1s: Current: 14747.17Mbps, Average: 14912.01Mbps, 60Sec_Average: 14301.98Mbps
+1688422514.070991 -- INFO: Sample Transfer -- Throughput: 14361.0Mbps, Loss Rate: 0.0%, Score: -11324.0
+1688422514.071316 -- INFO: Iteration 7 Ends, Took 3.11 Seconds. Score: -11324.0.
+1688422514.071510 -- INFO: Iteration 8 Starts ...
+1688422514.071694 -- INFO: Sample Transfer -- Probing Parameters: [12]
+1688422514.578790 -- INFO: Throughput @22.1s: Current: 16450.06Mbps, Average: 14981.61Mbps, 60Sec_Average: 14395.37Mbps
+1688422515.579937 -- INFO: Throughput @23.1s: Current: 16257.12Mbps, Average: 15036.83Mbps, 60Sec_Average: 14472.95Mbps
+1688422516.580779 -- INFO: Throughput @24.1s: Current: 16022.24Mbps, Average: 15077.72Mbps, 60Sec_Average: 14534.92Mbps
+1688422517.151376 -- INFO: Sample Transfer -- Throughput: 16140.0Mbps, Loss Rate: 0.0%, Score: -12726.0
+1688422517.151731 -- INFO: Iteration 8 Ends, Took 3.08 Seconds. Score: -12726.0.
+1688422517.151906 -- INFO: Iteration 9 Starts ...
+1688422517.152079 -- INFO: Sample Transfer -- Probing Parameters: [12]
+1688422517.582021 -- INFO: Throughput @25.1s: Current: 16810.77Mbps, Average: 15146.76Mbps, 60Sec_Average: 14622.45Mbps
+1688422518.582848 -- INFO: Throughput @26.1s: Current: 16785.6Mbps, Average: 15209.55Mbps, 60Sec_Average: 14702.57Mbps
+1688422519.583849 -- INFO: Throughput @27.1s: Current: 16852.71Mbps, Average: 15270.19Mbps, 60Sec_Average: 14779.36Mbps
+1688422520.208845 -- INFO: Sample Transfer -- Throughput: 16819.0Mbps, Loss Rate: 0.0%, Score: -13262.0
+1688422520.209197 -- INFO: Iteration 9 Ends, Took 3.06 Seconds. Score: -13262.0.
+1688422520.209369 -- INFO: Iteration 10 Starts ...
+1688422520.209586 -- INFO: Sample Transfer -- Probing Parameters: [12]
+1688422520.584984 -- INFO: Throughput @28.1s: Current: 16978.54Mbps, Average: 15330.98Mbps, 60Sec_Average: 14855.19Mbps
+1688422521.585925 -- INFO: Throughput @29.1s: Current: 16450.06Mbps, Average: 15369.44Mbps, 60Sec_Average: 14908.35Mbps
+1688422522.586856 -- INFO: Throughput @30.1s: Current: 16424.89Mbps, Average: 15404.5Mbps, 60Sec_Average: 14957.27Mbps
+1688422523.282689 -- INFO: Sample Transfer -- Throughput: 16437.0Mbps, Loss Rate: 0.0%, Score: -12961.0
+1688422523.283049 -- INFO: Iteration 10 Ends, Took 3.07 Seconds. Score: -12961.0.
+1688422523.283216 -- INFO: Iteration 11 Starts ...
+1688422523.283385 -- INFO: Sample Transfer -- Probing Parameters: [12]
+1688422523.587839 -- INFO: Throughput @31.1s: Current: 15451.16Mbps, Average: 15406.0Mbps, 60Sec_Average: 14972.71Mbps
+1688422524.450285 -- INFO: Sample Transfer -- Throughput: 15938.0Mbps, Loss Rate: 0%, Score: -12567.0
+1688422524.450607 -- INFO: Iteration 11 Ends, Took 1.17 Seconds. Score: 10000000000.
+1688422524.450759 -- INFO: Optimizer Exits ...
+1688422524.451216 -- INFO: Total: 55.927 GB, Time: 31.945 sec, Throughput: 14341.96 Mbps

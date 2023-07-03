@@ -1,9 +1,9 @@
 configurations = {
     "receiver": {
-        "host": "164.54.113.195",
+        "host": "10.140.82.56",
         "port": 8000
     },
-    "data_dir": "/eagle/projects/AI-Steer/Jamil_Data/",
+    "data_dir": "/home/cc/Files/",
     "method": "fixed", # options: [gradient, bayes, random, brute, probe, cg, lbfgs,fixed]
     "bayes": {
         "initial_run": 3,
@@ -23,7 +23,7 @@ configurations = {
     "mp_opt": False, # Always False for python version
     "fixed_probing": {
         "bsize": 10,
-        "thread": 30
+        "thread": 12
     },
     "max_cc": 100,
 }
