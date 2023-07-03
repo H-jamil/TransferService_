@@ -12,6 +12,9 @@ Below steps are required for both source and destination server:
 After cloning do chmod +x environment_installation.sh
 then run sudo ./environment_installation.sh transferEnv 3.10
 &        source ~/.bashrc
+if above command gives error and doesn't complete do source ~/.bashrc and then run sudo ./environment_installation.sh transferEnv 3.10
+&        source ~/.bashrc again.
+create a source file directory by running file_creation.sh </src/directory> <#of_file> <eachfileSize>
 Activate transferEnv using pyenv activate transferEnv
 Install required python packages: pip install -r requirements.tx
 On the destination server, please edit config_receiver.py and run python receiver.py
